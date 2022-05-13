@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniopurificato
-- 👀 I’m interested in: Artificial Intelligence, Machine Learning and other computer science fields.
+- 👀 I’m interested in: Artificial Intelligence, Machine Learning.
 - 🌱 I’m currently learning: Artificial Intelligence and Robotics in "La Sapienza" University of Rome
 - 📫 How to reach me: purificatoantonio6@gmail.com
 
