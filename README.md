@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniopurificato
-- 👀 I’m interested in: Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning: Artificial Intelligence and Robotics in "La Sapienza" University of Rome
+- 👀 I’m interested in: Artificial Intelligence, Graph Neural Networks, Sheaf Theory.
+- 🌱 I’m currently learning: Data Science PhD at "La Sapienza" University of Rome
 - 📫 How to reach me: purificatoantonio6@gmail.com
 
 <!---
